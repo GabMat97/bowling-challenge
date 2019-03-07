@@ -1,4 +1,6 @@
-function scorecard(a, b) {
-  return a + b;
+class Game {
+  constructor(){
+
+  }
 }
-module.exports = scorecard;
+module.exports = Game;
